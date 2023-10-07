@@ -1,0 +1,37 @@
+body{
+    background: rgba(0, 213, 255, 0.98);
+    font-family: 'Inconsolata',cursive;
+}
+
+.header_div{
+    background: rgb(0, 183, 255);
+    color: aqua;
+}
+
+.header_div p{
+    color: rgba(68, 255, 0, 0.729);
+    font-family: 'Bitter',cursive;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.main_div button{
+    font-family: 'Bitter',cursive;
+    margin-top: 30px;
+    width: 390px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+
+.copy_right_footer{
+ position: fixed;
+ color: blue;
+ background-color: rgb(7, 178, 234); 
+ bottom: 0;
+ width: 100%;
+ font-size: 18px;
+ line-height: 3;
+ text-align: center;
+ text-shadow: 5px 5px 5px rgb(31, 153, 186);
+}
